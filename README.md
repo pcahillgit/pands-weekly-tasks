@@ -6,7 +6,7 @@ This is my submissions for the 8 weekly tasks due for the module Programming and
 These tasks are:
 
 | Week | Title | Summary |
-| :--  | :---: |    ---: |
+| :--  | :---: |  :---:  |
 | 1 | Helloworld | Prints helloworld |
 | 2 | Bank | Enter two numbers in cents, returns the sum in euro |
 | 3 | Accounts | This program reads in a 10 character account number and outputs the account number with only the last 4 digits showing (and the first 6 digits replaced with x's). It will then accept a second number of any length and display the last 4 digits. |
