@@ -23,3 +23,7 @@ while number > 1:
 else:   
     print (number, end=' ')
 #Above, we are specifying the calculations to take place if the number is above 1. Each step in the calculation will print in sequence, always ending in 1.
+
+#References:
+#W3 Schools Guide to If Statements: https://www.w3schools.com/python/python_conditions.asp
+#Python Guides Flows: https://docs.python.org/3/tutorial/controlflow.html

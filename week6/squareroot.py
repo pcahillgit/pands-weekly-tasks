@@ -24,3 +24,6 @@ else:
     print(f"The approximated square root of {inp} is {answer}")
 #Once a valid input is given, the approximated squareroot of that number will be the output of the my function.
 #It's a function so it's done in the background, the output is then printed as the answer.
+
+#References:
+#W3 Schools Functions Guide: https://www.w3schools.com/python/python_functions.asp

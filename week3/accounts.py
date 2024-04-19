@@ -16,3 +16,8 @@ second_no = str(input("What is your second account number (this can be of any le
 second_no_X = 'X' * (len(second_no) - 4)
 second_no_last_4_digits = second_no[-4:]
 print (f"Your second account number is: {second_no_X}{second_no_last_4_digits}")
+
+#References:
+#W3 Schools Guide to Python types: https://www.w3schools.com/python/python_datatypes.asp
+#W3 Schools Guide to If Statements: https://www.w3schools.com/python/python_conditions.asp
+#Stack Overflow thread on similar issue: https://stackoverflow.com/questions/40842451/how-do-i-use-the-replace-function-to-change-all-but-the-last-4-characters-of

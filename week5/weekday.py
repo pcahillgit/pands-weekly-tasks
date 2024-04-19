@@ -12,3 +12,6 @@ else:
 #If the date string's first three characters contains any of the weekday substrings listed above then it is a weekday.
 #Python indexing starts at 0 so we're looking for characters 0,1 & 2. That is [:3].
 #If the substring is not present then it's the weekend, yay!
+
+#References:
+#Python Time: https://docs.python.org/3/library/time.html

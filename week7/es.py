@@ -30,3 +30,9 @@ except IndexError:
 #Accounting for filename that doesnt exist:
 except FileNotFoundError:
     print (f"File {access_file} not found, please try again.")
+
+#References:
+#Python Tutorials Errors and Exceptions: https://docs.python.org/3/tutorial/errors.html
+#W3 Schools Guide to If Statements: https://www.w3schools.com/python/python_conditions.asp
+#Learning about command line arguments: https://www.geeksforgeeks.org/command-line-arguments-in-python/
+#Similar stackoverflow thread: https://stackoverflow.com/questions/48885930/counting-specific-characters-in-a-file-python
