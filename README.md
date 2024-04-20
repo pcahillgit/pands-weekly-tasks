@@ -33,5 +33,5 @@ Material used to inform my work is referenced as comments at the end of each tas
 ## Author
 *Paul Cahill*
 
-## Contact
-Please feel free to reach out to me at G00438905@atu.ie with any questions or comments.
+## Contact 
+Please feel free to reach out to me at G00438905@atu.ie with any questions, comments or fan mail.
