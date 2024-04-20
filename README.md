@@ -19,16 +19,16 @@ These tasks are:
 ## References
 Material used to inform my work is referenced as comments at the end of each task. Below is a cumilative list of references:
 
-- Python Documentation, guide to Pythons time module, ["time — Time access and conversions"](https://docs.python.org/3/library/time.html)
-- Python Documentation, guide to flows, ["More Control Flow Tools"](https://docs.python.org/3/tutorial/controlflow.html)
-- Python Documentation, guide to errors and exceptions, ["Errors and Exceptions"](https://docs.python.org/3/tutorial/errors.html)
-- W3 Schools, guide to if statements, ["Python If ... Else"](https://www.w3schools.com/python/python_conditions.asp)
-- W3 Schools, guide to types, ["Python Data Types"](https://www.w3schools.com/python/python_datatypes.asp)
-- W3 Schools, guide to functions, ["Python Functions"](https://www.w3schools.com/python/python_functions.asp)
-- Geeks for Geeks, learning about command line arguments, ["Command Line Arguments in Python"](https://www.geeksforgeeks.org/command-line-arguments-in-python/)
-- Real Python, guide to plotting with Matplotlib, ["Python Plotting with Matplotlib (Guide)"](https://realpython.com/python-matplotlib-guide/)
-- NumPy, introduction to NumPy for beginners, ["NumPy: the absolute basics for beginners"](https://numpy.org/doc/stable/user/absolute_beginners.html)
-- Stack Overflow, various threads on issues similar to those given as weekly tasks (I refernece specific cases, where relevant, as comments in the tasks), ["Stack Overflow"](https://stackoverflow.com/)
+- Geeks for Geeks, learning about command line arguments, ["Command Line Arguments in Python"](https://www.geeksforgeeks.org/command-line-arguments-in-python/).
+- NumPy, introduction to NumPy for beginners, ["NumPy: the absolute basics for beginners"](https://numpy.org/doc/stable/user/absolute_beginners.html).
+- Python Documentation, guide to Pythons time module, ["time — Time access and conversions"](https://docs.python.org/3/library/time.html).
+- Python Documentation, guide to flows, ["More Control Flow Tools"](https://docs.python.org/3/tutorial/controlflow.html).
+- Python Documentation, guide to errors and exceptions, ["Errors and Exceptions"](https://docs.python.org/3/tutorial/errors.html).
+- Real Python, guide to plotting with Matplotlib, ["Python Plotting with Matplotlib (Guide)"](https://realpython.com/python-matplotlib-guide/).
+- Stack Overflow, various threads on issues similar to those given as weekly tasks (I refernece specific cases, where relevant, as comments in the tasks), ["Stack Overflow"](https://stackoverflow.com/).
+- W3 Schools, guide to if statements, ["Python If ... Else"](https://www.w3schools.com/python/python_conditions.asp).
+- W3 Schools, guide to types, ["Python Data Types"](https://www.w3schools.com/python/python_datatypes.asp).
+- W3 Schools, guide to functions, ["Python Functions"](https://www.w3schools.com/python/python_functions.asp).
 
 ## Author
 *Paul Cahill*
