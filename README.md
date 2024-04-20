@@ -1,4 +1,4 @@
-# pands-weekly-tasks
+# Programming and Scripting Weekly Tasks
 
 ## About this Repository
 This is my submissions for the 8 weekly tasks due for the module Programming and Scripting.
@@ -15,6 +15,8 @@ These tasks are:
 | 6 | Squareroot | This is a function that finds the approximated square-root of a given number. |
 | 7 | Es | Choose a .txt document to submit as an argument on the command line and this program will count the number of e's within the document. |
 | 8 | Plottask | Plots a normal distribution of 1000 values with a mean of 5 and standard deviation of 2 along with function h(x)=x3 in the range 0 to 10. |
+
+Material used to inform my work is referenced as comments at the end of each task.
 
 ## Author
 *Paul Cahill*
