@@ -15,15 +15,16 @@ def sqrt(inp):
 #the square root for the numbers someone is likely to enter.
 #Rounding to 1 decimal place as per the example given in the weekly task example on the VLE.
 
+#asking the user to enter a positive number. Using float here as decimals can be accepted.
 inp = float(input("please enter a positive number: "))
 if inp < 0:
     print("That number is not positive, please try again")
-#asking the user to enter a positive number. Using float here as decimals can be accepted.
 else:   
     answer = sqrt(inp)
     print(f"The approximated square root of {inp} is {answer}")
-#Once a valid input is given, the approximated squareroot of that number will be the output of the my function.
-#It's a function so it's done in the background, the output is then printed as the answer.
+#Once a valid input above 0 is given, the approximated squareroot of that number will be the output of the my function.
+#It's a function so the work is done in the background, the output is then printed as the answer.
 
 #References:
 #W3 Schools Functions Guide: https://www.w3schools.com/python/python_functions.asp
+#MIT article on Newtons-method for finding an approximated square number: https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf

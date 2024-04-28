@@ -27,6 +27,7 @@ Anaconda will pre-install Python along with any of the libraries used. Visual St
 Material used to inform my work is referenced as comments at the end of each task. Below is a cumilative list of references:
 
 - Geeks for Geeks, learning about command line arguments, [*"Command Line Arguments in Python"*](https://www.geeksforgeeks.org/command-line-arguments-in-python/).
+- Johnston, S.G. MIT, article on Newtons method for approximating the square root of a number, [*"Square Roots via Newton’s Method"*](https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf).
 - NumPy, introduction to NumPy for beginners, [*"NumPy: the absolute basics for beginners"*](https://numpy.org/doc/stable/user/absolute_beginners.html).
 - Python Documentation, guide to Pythons time module, [*"time — Time access and conversions"*](https://docs.python.org/3/library/time.html).
 - Python Documentation, guide to flows, [*"More Control Flow Tools"*](https://docs.python.org/3/tutorial/controlflow.html).
