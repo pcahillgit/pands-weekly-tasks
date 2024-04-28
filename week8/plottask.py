@@ -41,3 +41,4 @@ plt.show()
 #W3 Schools Guide to Matplotlib: https://www.w3schools.com/python/matplotlib_intro.asp
 #RealPython Matplotlib Guide: https://realpython.com/python-matplotlib-guide/
 #Numpy for beginners: https://numpy.org/doc/stable/user/absolute_beginners.html
+#LaTex mathematical notation, using the $ symbols to add mathematical notation style: https://patrickwalls.github.io/mathematicalpython/jupyter/latex/
