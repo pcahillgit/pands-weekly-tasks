@@ -34,6 +34,7 @@ Material used to inform my work is referenced as comments at the end of each tas
 - Real Python, guide to plotting with Matplotlib, [*"Python Plotting with Matplotlib (Guide)"*](https://realpython.com/python-matplotlib-guide/).
 - Real Python, guide to string formatting, [*"Python String Formatting Best Practices"*](https://realpython.com/python-string-formatting/).
 - Stack Overflow, various threads on issues similar to those given as weekly tasks (I refernece specific cases, where relevant, as comments in the tasks), [*"Stack Overflow"*](https://stackoverflow.com/).
+- W3 Schools, guide to arithmetic [*"Python Arithmetic Operators"*](https://www.w3schools.com/python/gloss_python_arithmetic_operators.asp).
 - W3 Schools, guide to if statements, [*"Python If ... Else"*](https://www.w3schools.com/python/python_conditions.asp).
 - W3 Schools, guide to types, [*"Python Data Types"*](https://www.w3schools.com/python/python_datatypes.asp).
 - W3 Schools, guide to functions, [*"Python Functions"*](https://www.w3schools.com/python/python_functions.asp).
