@@ -1,8 +1,8 @@
 #This program will tell the user if it is a weekday or weekend.
 #Author: Paul Cahill
 
-import time
 #Pythons time module can be used to pull the systems current time.
+import time
 date = time.asctime()
 #Here, the date variable will contain the system time, with the day abbreviated (this will be the first three characters).
 if date[:3] in ["Mon", "Tue", "Wed", "Thu", "Fri"]: 
@@ -15,3 +15,4 @@ else:
 
 #References:
 #Python Time: https://docs.python.org/3/library/time.html
+#W3 schools guide to Python types: https://www.w3schools.com/python/python_datatypes.asp
