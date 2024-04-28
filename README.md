@@ -32,6 +32,7 @@ Material used to inform my work is referenced as comments at the end of each tas
 - Python Documentation, guide to Pythons time module, [*"time — Time access and conversions"*](https://docs.python.org/3/library/time.html).
 - Python Documentation, guide to flows, [*"More Control Flow Tools"*](https://docs.python.org/3/tutorial/controlflow.html).
 - Python Documentation, guide to errors and exceptions, [*"Errors and Exceptions"*](https://docs.python.org/3/tutorial/errors.html).
+- Python Documentation, examples of unicodedata uses, [*"unicodedata — Unicode Database"*](https://docs.python.org/3/library/unicodedata.html).
 - Real Python, guide to plotting with Matplotlib, [*"Python Plotting with Matplotlib (Guide)"*](https://realpython.com/python-matplotlib-guide/).
 - Real Python, guide to string formatting, [*"Python String Formatting Best Practices"*](https://realpython.com/python-string-formatting/).
 - Stack Overflow, various threads on issues similar to those given as weekly tasks (I refernece specific cases, where relevant, as comments in the tasks), [*"Stack Overflow"*](https://stackoverflow.com/).

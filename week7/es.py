@@ -11,15 +11,15 @@ import unicodedata
 #opening the file in read mode, converting accented e's into normal ones, counting the e's and printing result.
 try:
     access_file = sys.argv[1]
-#Accounting for non-text file:
+#Accounting for non-text file (does not end in .txt):
     if not access_file.endswith('.txt'):
         print("File must be a .txt file, please try again.")
     else:
         with open(access_file, 'r') as file:
             content = file.read()
-            #here, NFD is changing accented e's to normal ones
+            #here, NFD is changing accented e's in the content of the file to normal ones
             normalise_content = unicodedata.normalize('NFD', content)
-             # .lower converts the string to lower case
+             # .lower converts the string to lower case. Here the normalised, lower case text is counted for e's and in the next line the result is printed.
             e_count = normalise_content.lower().count('e')
             print(f"There are {e_count} e's in {access_file}.")
 
@@ -36,3 +36,4 @@ except FileNotFoundError:
 #W3 Schools Guide to If Statements: https://www.w3schools.com/python/python_conditions.asp
 #Learning about command line arguments: https://www.geeksforgeeks.org/command-line-arguments-in-python/
 #Similar stackoverflow thread: https://stackoverflow.com/questions/48885930/counting-specific-characters-in-a-file-python
+#Python Docs guide to Unicodedata, outlines uses of each: https://docs.python.org/3/library/unicodedata.html
